@@ -1,0 +1,22 @@
+
+
+
+    #Define and Initialize Variables
+    COST_MONTH = 10
+    LESS_CHECKS_20 = 0.10
+    LESS_CHECKS_39 = 0.08
+    LESS_CHECKS_59 = 0.06
+    MORE_CHECKS_60 = 0.04
+    checks_monthly = 0
+
+    #Display intro about the program
+
+    #ask for the user's name
+
+    #prompt for how many checks the user writes each month
+
+    #thank the user
+
+    #calculate the banks service fee monthly
+
+    #display the service fee per-month
