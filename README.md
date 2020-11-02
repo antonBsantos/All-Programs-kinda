@@ -1,5 +1,4 @@
-# All-Programs-kinda
-All of my programs sort-of so i can switch between Mac and PC easily
+# Github readme file
+Learning how to use github and how it effects writing and communication of a project/program.
 
 
-Is this the edited version?
